@@ -1,0 +1,38 @@
+@media (max-width: 900px) {
+    header {
+        position: relative; 
+        
+        margin: auto;
+        width: 320px; 
+        height: 300px;
+    } 
+    #header_nav {
+        position: relative; 
+        margin: auto; 
+        width: 320px; 
+        text-align: center;
+    } 
+
+    main {
+        position: relative; 
+        margin: auto; 
+        text-align: center;
+    } 
+
+    .code_documentation {
+        position: relative; 
+        left: 0; 
+        text-align: left;
+    } 
+
+    .content_text {
+        margin-left: 0px;
+    } 
+
+    main li {
+        margin: 0px;
+    } 
+    .Declaring_variables_text {
+        margin: 0px;
+    }
+}
